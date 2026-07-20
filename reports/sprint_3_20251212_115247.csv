@@ -1,0 +1,7 @@
+sprint,story_id,story,keyword,mitre_id,technique,severity,score,recommendation,security_user_story,assignee
+3,5,System outputs ATT&CK techniques,att&ck,(unknown),(unknown),Medium,6.0,Extend mapping JSON,"As a system, I should apply recommended security controls to reduce (unknown) ((unknown)) risk for 'att&ck'.",Team
+3,1,"As a developer, I want the tool to analyze user stories and flag possible threats automatically.",(none),(none),(none),Low,3.0,Manual review,Manual security review required,Team
+3,2,Acceptance Criteria:,(none),(none),(none),Low,3.0,Manual review,Manual security review required,Team
+3,3,System reads user story text,(none),(none),(none),Low,3.0,Manual review,Manual security review required,Team
+3,4,System identifies threat categories,(none),(none),(none),Low,3.0,Manual review,Manual security review required,Team
+3,6,System lists mitigations,(none),(none),(none),Low,3.0,Manual review,Manual security review required,Team
